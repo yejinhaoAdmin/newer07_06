@@ -4,7 +4,7 @@ public class Hello{
 
                                 System.out.println("i love oop");
 		
-
+  		  System.out.println("adminp");
 
 	}
 }
